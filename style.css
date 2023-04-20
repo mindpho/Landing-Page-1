@@ -1,0 +1,176 @@
+.homepage {
+  display: flex;
+  gap: 50px;
+  margin-right: 70px;
+  margin-top: 20px;
+  justify-content: flex-end;
+  color: darkgreen;
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.logo {
+  border: 1px solid brown;
+  height: 70px;
+  width: 250px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 70px;
+  margin-right: 1000px;
+  background-color: beige;
+  color: brown;
+}
+
+.home {
+  color: saddlebrown;
+  text-decoration: underline wavy 2px maroon;
+}
+
+.about, .services, .profile {
+  text-decoration: overline wavy yellowgreen;
+}
+
+.first-section {
+  display: flex;
+  background-color: lightgreen;
+  height: 400px;
+  margin-top: 20px;
+  gap: 30px;
+}
+
+.first-info {
+  margin-left: 200px;
+  margin-top: 110px;
+  height: 70%;
+  width: 45%;
+  font-size: 20px;  
+}
+
+.first-image {
+  height: 60%;
+  width: 30%;
+  margin-top: 80px;
+  text-align: center;
+  line-height: 230px;
+  background-color: mediumseagreen;
+  font-size: 18px;
+  color: gold;
+}
+
+.second-section {
+  margin-top: 90px;
+}
+
+.second-images {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  margin-top: 30px;
+}
+
+.box {
+  border: 2px solid maroon;
+  height: 150px;
+  width: 200px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 150px;
+  color: darkslategray;
+  background-color: whitesmoke;
+}
+
+.second-info {
+  display: flex;
+  justify-content: center;
+  gap: 113px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.third-section {
+  background-color: gainsboro;
+  height: 500px;
+  margin-top: 100px;
+  display: flex;
+  gap: 15px;
+}
+
+.third-image {
+  background-color: lightgreen;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin-top: 180px;
+  margin-left: 200px;
+  font-size: 13px;
+  text-align: center;
+  line-height: 48px;
+}
+
+.third-info {
+  font-size: 20px;
+  margin-top: 80px;
+}
+
+.button {
+  display: flex;
+  margin-left: 500px;
+  gap: 70px; 
+}
+
+.previous, .next {
+  border: 2px black;
+  height: 40px;
+  width: 150px;
+  text-align: center;
+  line-height: 36px;
+  background-color: tan;
+  margin-top: 20px;
+
+}
+
+.forth-section {
+  background-color: palegreen;
+  width: 1000px;
+  height: 150px;
+  margin-left: 400px;
+  margin-top: 80px;
+  border-radius: 15px; 
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.first-sentence {
+  color: maroon;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.second-sentence {
+  font-size: 20px
+}
+
+.sign-up {
+  border: 1px outset teal;
+  border-radius: 10px;
+  height: 50px;
+  width: 200px;
+  margin-top: 55px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 19px;
+  background-color: mediumseagreen;
+  color: white;
+}  
+
+.fifth-section {
+  background-color: mediumseagreen;
+  margin-top: 80px;
+  height: 50px;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+}
